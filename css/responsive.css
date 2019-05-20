@@ -85,18 +85,11 @@
     display: none;
   }
   
-  /*#social {*/
-  /*  top: 60px;*/
-  /*}*/
-  
-  /*#logo {*/
-  /*  top: 60px 0px 0px;*/
-  /*}*/
-  
-  #logo{
-    padding: 60px 0 0;
-  }
-  #social{
+  #social {
     top: 60px;
+  }
+  
+  #logo {
+    top: 60px 0px 0px;
   }
 }
