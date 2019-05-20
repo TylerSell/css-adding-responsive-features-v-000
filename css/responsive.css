@@ -86,6 +86,10 @@
   }
   
   #social {
-    
+    top: 60px;
+  }
+  
+  #logo {
+    top: 60px 0px 0px;
   }
 }
